@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<img src="assets/1.png" width="250">
+
+Inspired on: https://www.youtube.com/channel/UCU0XSqz_hWLJbmlr7kCmvAg
+
+The Playlist: https://www.youtube.com/playlist?list=PLJ5EAGz05Q3FJG96SH8GoWcSUg8IHwtnt
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
