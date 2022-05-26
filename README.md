@@ -1,6 +1,6 @@
 # drum_machine
 
-A new Flutter project.
+---ScreenShots---
 
 <img src="assets/1.png" width="250">
 
